@@ -1,0 +1,130 @@
+.title {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+}
+.navbar {
+  background: rgb(37, 37, 37) !important;
+}
+
+.burger {
+  color: aqua;
+}
+
+.logo {
+  margin-right: -10px;
+}
+
+.movies {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+
+.signin {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+.Search {
+  color: pink;
+  margin-right: 15px;
+  margin-bottom: 2%;
+}
+
+.Profile {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+
+.create {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+.logid {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+.idname {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.signout {
+  color: pink;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 15px;
+}
+.user1 {
+  color: 37, 37, 37;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+}
+
+.homemovies {
+  margin-top: 5%;
+  text-decoration: underline;
+}
+
+.pfp {
+  margin-top: 5%;
+}
+
+.pfpmovies {
+  margin-top: 5%;
+  text-decoration: underline;
+  margin-left: 2%;
+}
+
+.bio {
+  margin-bottom: 5%;
+}
+
+.passedit {
+  margin-bottom: 2%;
+}
+
+.Search2 {
+  margin-bottom: 2%;
+}
+
+.cardbod {
+  margin-bottom: 2%;
+
+  height: auto ;
+}
+
+.cardimg {
+  width: 100%;
+  height: auto;
+}
+
+.moviecon {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+  
+
+}
+
+.More{
+
+height: auto;
+width: auto ;
+color: rgb(37, 37, 37);
+
+}
